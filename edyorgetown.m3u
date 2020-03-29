@@ -1,0 +1,266 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQKuW0jqdVy5ENGlvcKsB82IWwY.jpg" group-title="GOTHAM", Gotham S01 E01
+http://grtsvk.life:8080/series/292929/292929/4304.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNr0SSWvVYOsZWfkgB8XGKjzlJv.jpg" group-title="GOTHAM", Gotham S01 E02
+http://grtsvk.life:8080/series/292929/292929/4305.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXMWKaQlIcFibGMUGIzPj7Io7hn.jpg" group-title="GOTHAM", Gotham S01 E03
+http://grtsvk.life:8080/series/292929/292929/4306.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gL4HWIoQKG5kRQCC1YOrW4fCJbn.jpg" group-title="GOTHAM", Gotham S01 E04
+http://grtsvk.life:8080/series/292929/292929/4307.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4a77nHzrTD57leSW549e08RBLpi.jpg" group-title="GOTHAM", Gotham S01 E05
+http://grtsvk.life:8080/series/292929/292929/4308.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jeDMkpsImpFmiE4qHACE8tcRcua.jpg" group-title="GOTHAM", Gotham S01 E06
+http://grtsvk.life:8080/series/292929/292929/4309.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/reum0iiHyqEKxtUaNHpVg9jrLHR.jpg" group-title="GOTHAM", Gotham S01 E07
+http://grtsvk.life:8080/series/292929/292929/4310.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/soQZpvY4alB84VKhqUmKyCyS0vv.jpg" group-title="GOTHAM", Gotham S01 E08
+http://grtsvk.life:8080/series/292929/292929/4311.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i2xH5tV6J8evn86ceYXuP2rGtPT.jpg" group-title="GOTHAM", Gotham S01 E09
+http://grtsvk.life:8080/series/292929/292929/4312.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hc9XEYDkKsrCjd2rcnERj5N80gX.jpg" group-title="GOTHAM", Gotham S01 E10
+http://grtsvk.life:8080/series/292929/292929/4313.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8vtpGARqmE6PFeVpsbVELj9P4R.jpg" group-title="GOTHAM", Gotham S01 E11
+http://grtsvk.life:8080/series/292929/292929/4314.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lB09jC7WmdebOegzWknShOARxTn.jpg" group-title="GOTHAM", Gotham S01 E12
+http://grtsvk.life:8080/series/292929/292929/4315.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20kdH7IfYw9oHujYbvwqoXNyDHq.jpg" group-title="GOTHAM", Gotham S01 E13
+http://grtsvk.life:8080/series/292929/292929/4316.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/186n7uKlCzSioUfpiTVLbxf3LyQ.jpg" group-title="GOTHAM", Gotham S01 E14
+http://grtsvk.life:8080/series/292929/292929/4317.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvP8ukS6GU8GY2NJxZPsBEm29n5.jpg" group-title="GOTHAM", Gotham S01 E15
+http://grtsvk.life:8080/series/292929/292929/4318.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZ957Zpn9sllM3cnm0euXORDgRz.jpg" group-title="GOTHAM", Gotham S01 E16
+http://grtsvk.life:8080/series/292929/292929/4319.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gyDPSymw0x1rBgfjcgF4Ow5RKsP.jpg" group-title="GOTHAM", Gotham S01 E17
+http://grtsvk.life:8080/series/292929/292929/4320.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9wJMNhbbdmXjW19JtEWDxEUf1KY.jpg" group-title="GOTHAM", Gotham S01 E18
+http://grtsvk.life:8080/series/292929/292929/4321.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhmdj5OopDxNVkXAw91HIxncGB0.jpg" group-title="GOTHAM", Gotham S01 E19
+http://grtsvk.life:8080/series/292929/292929/4322.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpXUaRMojfN7IwnMxkf3lnEw23B.jpg" group-title="GOTHAM", Gotham S01 E20
+http://grtsvk.life:8080/series/292929/292929/4323.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tM8zixSVsT9wyy03nnm5Sh9KUJv.jpg" group-title="GOTHAM", Gotham S01 E21
+http://grtsvk.life:8080/series/292929/292929/4324.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8LQ3EodJDoZzMp3LgP1GOcdsV5x.jpg" group-title="GOTHAM", Gotham S01 E22
+http://grtsvk.life:8080/series/292929/292929/4325.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzd4gpwV9rLetJdSgxGakLcBNBj.jpg" group-title="GOTHAM", Gotham S02 E01
+http://grtsvk.life:8080/series/292929/292929/8567.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnu1kwQECBKzeKLm043VaXiMh2J.jpg" group-title="GOTHAM", Gotham S02 E02
+http://grtsvk.life:8080/series/292929/292929/8568.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oAoU342gj9qP69SKFS4VEToWt9T.jpg" group-title="GOTHAM", Gotham S02 E03
+http://grtsvk.life:8080/series/292929/292929/8569.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hFGjoqnPSN5271QzxU2Dv6EDviX.jpg" group-title="GOTHAM", Gotham S02 E04
+http://grtsvk.life:8080/series/292929/292929/8570.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNr0SSWvVYOsZWfkgB8XGKjzlJv.jpg" group-title="GOTHAM", Gotham S01 E02
+http://grtsvk.life:8080/series/292929/292929/4305.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXMWKaQlIcFibGMUGIzPj7Io7hn.jpg" group-title="GOTHAM", Gotham S01 E03
+http://grtsvk.life:8080/series/292929/292929/4306.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gL4HWIoQKG5kRQCC1YOrW4fCJbn.jpg" group-title="GOTHAM", Gotham S01 E04
+http://grtsvk.life:8080/series/292929/292929/4307.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4a77nHzrTD57leSW549e08RBLpi.jpg" group-title="GOTHAM", Gotham S01 E05
+http://grtsvk.life:8080/series/292929/292929/4308.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jeDMkpsImpFmiE4qHACE8tcRcua.jpg" group-title="GOTHAM", Gotham S01 E06
+http://grtsvk.life:8080/series/292929/292929/4309.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/reum0iiHyqEKxtUaNHpVg9jrLHR.jpg" group-title="GOTHAM", Gotham S01 E07
+http://grtsvk.life:8080/series/292929/292929/4310.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNiE7MPWDsCKJ5xtuvgeyiRlJSH.jpg" group-title="GOTHAM", Gotham S02 E11
+http://grtsvk.life:8080/series/292929/292929/8577.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mv455YzsNZ9qjdqQf420Uz3BsNu.jpg" group-title="GOTHAM", Gotham S02 E12
+http://grtsvk.life:8080/series/292929/292929/8578.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDHnpJWvUrjdTiP7Osr0k17bfJe.jpg" group-title="GOTHAM", Gotham S02 E13
+http://grtsvk.life:8080/series/292929/292929/8579.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dclrl5BkcpFXV0E1GGlLeCamL2J.jpg" group-title="GOTHAM", Gotham S02 E14
+http://grtsvk.life:8080/series/292929/292929/8580.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPJ8VOCSgLkLlKjUdfujDkdBKYI.jpg" group-title="GOTHAM", Gotham S02 E15
+http://grtsvk.life:8080/series/292929/292929/8581.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mc22uWl67UjqhFb6DGV8ZUAw287.jpg" group-title="GOTHAM", Gotham S02 E16
+http://grtsvk.life:8080/series/292929/292929/8582.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mqoEJ8OGhXUK6X77ZbHz0vobJec.jpg" group-title="GOTHAM", Gotham S02 E17
+http://grtsvk.life:8080/series/292929/292929/8583.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftRSlHklsclJpe2gmysLJr1e15X.jpg" group-title="GOTHAM", Gotham S02 E18
+http://grtsvk.life:8080/series/292929/292929/8584.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8W8sjk71VLXb802Wwh4wNk34yQt.jpg" group-title="GOTHAM", Gotham S02 E19
+http://grtsvk.life:8080/series/292929/292929/8585.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfGKBLDcDzhyiDg8jDWSsewDEhT.jpg" group-title="GOTHAM", Gotham S02 E20
+http://grtsvk.life:8080/series/292929/292929/8586.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAXP3dYu4vUOn86gYa0ZaZWVhEr.jpg" group-title="GOTHAM", Gotham S02 E21
+http://grtsvk.life:8080/series/292929/292929/8587.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvtLuA9V1tqFxxFGhGEL1WXX5P.jpg" group-title="GOTHAM", Gotham S02 E22
+http://grtsvk.life:8080/series/292929/292929/8588.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pP362ZqYcVhRPruc8VHueT10wZq.jpg" group-title="GOTHAM", Gotham S03 E01
+http://grtsvk.life:8080/series/292929/292929/8589.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7tA7VkUUZPQanB4jUNTwoK1WfZq.jpg" group-title="GOTHAM", Gotham S03 E02
+http://grtsvk.life:8080/series/292929/292929/8590.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7xkzTfLrYNe71QixqJHakD1yD6.jpg" group-title="GOTHAM", Gotham S03 E03
+http://grtsvk.life:8080/series/292929/292929/8591.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/41fBXH7T5fAYuPdJUbFQ5YUItZS.jpg" group-title="GOTHAM", Gotham S03 E04
+http://grtsvk.life:8080/series/292929/292929/8592.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7EPwuY7hzQ7MQsIeg5WZVSZMyLD.jpg" group-title="GOTHAM", Gotham S03 E05
+http://grtsvk.life:8080/series/292929/292929/8593.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuGWwh4Sl8O8ZRmY5iYxRqasB1Q.jpg" group-title="GOTHAM", Gotham S03 E06
+http://grtsvk.life:8080/series/292929/292929/8594.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tonwxsgPuplqwYbJOvB6a3mqSLZ.jpg" group-title="GOTHAM", Gotham S03 E07
+http://grtsvk.life:8080/series/292929/292929/8595.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jC4pDSTR6ApVUKTFXqoa7GNuzd9.jpg" group-title="GOTHAM", Gotham S03 E08
+http://grtsvk.life:8080/series/292929/292929/8596.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHH6gKly3lE5hx6WfQjZmY1GtSp.jpg" group-title="GOTHAM", Gotham S03 E09
+http://grtsvk.life:8080/series/292929/292929/8597.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fGiqkf8xMVl1zSuibMbOFG2fWx.jpg" group-title="GOTHAM", Gotham S03 E10
+http://grtsvk.life:8080/series/292929/292929/8598.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5vZKIm6JMMPf0mKHHojLhObKJS.jpg" group-title="GOTHAM", Gotham S03 E11
+http://grtsvk.life:8080/series/292929/292929/8599.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTxX19eDXmTVmIn4A4hG62gj2Ju.jpg" group-title="GOTHAM", Gotham S03 E12
+http://grtsvk.life:8080/series/292929/292929/8600.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5EiKUe6awheqjFnbhq1TUnJSeL6.jpg" group-title="GOTHAM", Gotham S03 E13
+http://grtsvk.life:8080/series/292929/292929/8601.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGLp9W3K56ITT1Ol97JwCrD16hP.jpg" group-title="GOTHAM", Gotham S03 E14
+http://grtsvk.life:8080/series/292929/292929/8602.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqf2eDVzmTp9dI64VsJqnmxfUw.jpg" group-title="GOTHAM", Gotham S03 E15
+http://grtsvk.life:8080/series/292929/292929/8603.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4s6WbGN3WRso9OpC4qxbY5no3x.jpg" group-title="GOTHAM", Gotham S03 E16
+http://grtsvk.life:8080/series/292929/292929/8604.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8N7qfRsgJkrmqkmSTibg7tHD39.jpg" group-title="GOTHAM", Gotham S03 E17
+http://grtsvk.life:8080/series/292929/292929/8605.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AhPIT7CT0BC3leZ9XwoUgRt1Lup.jpg" group-title="GOTHAM", Gotham S03 E18
+http://grtsvk.life:8080/series/292929/292929/8606.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsS5QIF3YtpWq4cOIbpNvrwUpDR.jpg" group-title="GOTHAM", Gotham S03 E19
+http://grtsvk.life:8080/series/292929/292929/8607.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ltkEw42AlvWKYe94iUqQzAuDJL.jpg" group-title="GOTHAM", Gotham S03 E20
+http://grtsvk.life:8080/series/292929/292929/8608.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEsCVvunknlYIRqG3Yu5ISMocrZ.jpg" group-title="GOTHAM", Gotham S03 E21
+http://grtsvk.life:8080/series/292929/292929/8609.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyJY61UF81jfSC2xuldlVeTMZuI.jpg" group-title="GOTHAM", Gotham S04 E01
+http://grtsvk.life:8080/series/292929/292929/8610.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAVSktxhn7NJyqOdYBmIIgMQEh5.jpg" group-title="GOTHAM", Gotham S04 E02
+http://grtsvk.life:8080/series/292929/292929/8611.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Le5zxLTyCY3BUrrRL1nIdKvNW3.jpg" group-title="GOTHAM", Gotham S04 E03
+http://grtsvk.life:8080/series/292929/292929/8612.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bc0NNzAgMBMBfs2NEiiZlUR9fsI.jpg" group-title="GOTHAM", Gotham S04 E04
+http://grtsvk.life:8080/series/292929/292929/8613.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vtAtDh7xYKQwBpLbcacTPgpi1X.jpg" group-title="GOTHAM", Gotham S04 E05
+http://grtsvk.life:8080/series/292929/292929/8614.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/anmwlkfiXMh5lNQTjIJW3Kx6nx0.jpg" group-title="GOTHAM", Gotham S04 E06
+http://grtsvk.life:8080/series/292929/292929/8615.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEuxHqJgkYT7VY6NxVgf8JHRrjL.jpg" group-title="GOTHAM", Gotham S04 E07
+http://grtsvk.life:8080/series/292929/292929/8616.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aqRiu6oPueC97oSK6oDUtDHVau3.jpg" group-title="GOTHAM", Gotham S04 E08
+http://grtsvk.life:8080/series/292929/292929/8617.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQdbAZHw9of5Si869cjq50o3YQB.jpg" group-title="GOTHAM", Gotham S04 E09
+http://grtsvk.life:8080/series/292929/292929/8618.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJID3OzM3c5j19lcIcawZ8CLuqj.jpg" group-title="GOTHAM", Gotham S04 E10
+http://grtsvk.life:8080/series/292929/292929/8619.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Qw1baCE86fjRlJBG6R2GR4Aof8.jpg" group-title="GOTHAM", Gotham S04 E11
+http://grtsvk.life:8080/series/292929/292929/8620.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3CXDHmiqeUEz0QgDjSTcWNP5xN.jpg" group-title="GOTHAM", Gotham S04 E12
+http://grtsvk.life:8080/series/292929/292929/8621.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wV4SB0yKSbt0SUrYHvvknUdxVCe.jpg" group-title="GOTHAM", Gotham S04 E13
+http://grtsvk.life:8080/series/292929/292929/8622.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4NW8XAs7MTOKszocPZOku8CBRa6.jpg" group-title="GOTHAM", Gotham S04 E14
+http://grtsvk.life:8080/series/292929/292929/8623.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgv9zpZ8vwj9Q99DfFyKkChc3yw.jpg" group-title="GOTHAM", Gotham S04 E15
+http://grtsvk.life:8080/series/292929/292929/8624.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jU0AClJUgYpGb45u4A2PMuWrppC.jpg" group-title="GOTHAM", Gotham S04 E16
+http://grtsvk.life:8080/series/292929/292929/8625.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lydlWLsW18eNksObxMnKGT8bWz.jpg" group-title="GOTHAM", Gotham S04 E17
+http://grtsvk.life:8080/series/292929/292929/8626.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmKwmAF95tHXF04EtPIorTL64De.jpg" group-title="GOTHAM", Gotham S04 E18
+http://grtsvk.life:8080/series/292929/292929/8627.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NnGqFcYqINdR6Pnho2Gc27aFM1.jpg" group-title="GOTHAM", Gotham S04 E19
+http://grtsvk.life:8080/series/292929/292929/8628.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZHsiJxyMdDBRkGBms9bAHJCKW4.jpg" group-title="GOTHAM", Gotham S04 E20
+http://grtsvk.life:8080/series/292929/292929/8629.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3O8Jpw0jUHJ0DvUrWuKK9PF5rC9.jpg" group-title="GOTHAM", Gotham S04 E21
+http://grtsvk.life:8080/series/292929/292929/8630.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/idYY16dztiene5nPLYoWsL9VLJF.jpg" group-title="GOTHAM", Gotham S04 E22
+http://grtsvk.life:8080/series/292929/292929/8631.mkv
+
